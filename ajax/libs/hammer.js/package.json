@@ -1,21 +1,19 @@
 {
-  "name": "angular-hammer.js",
-  "filename": "angular.hammer.min.js",
-  "version": "2.1.5",
-  "description": "Hammer.js support for Angular.js",
-  "homepage": "http://ryanmullins.github.io/angular-hammer/",
+  "name": "hammer.js",
+  "filename": "hammer.min.js",
+  "version": "2.0.4",
+  "description": "A javascript library for multi-touch gestures :// You can touch this ",
+  "homepage": "http://eightmedia.github.com/hammer.js/",
   "keywords": [
     "events",
     "touch",
-    "gestures",
-    "angular",
-    "hammer"
+    "gestures"
   ],
-  "author": "Ryan Mullins",
+  "author": "Jorik Tangelder (Eight Media)",
   "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/RyanMullins/angular-hammer.git"
-    }
+  {
+    "type": "git",
+    "url": "https://github.com/EightMedia/hammer.js.git"
+  }
   ]
 }
